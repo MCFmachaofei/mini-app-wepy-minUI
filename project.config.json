@@ -1,0 +1,13 @@
+{
+  "description": "jsjzh app",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram",
+  "appid": "wx05ab7960f07533de",
+  "projectname": "jsjzh-app",
+  "miniprogramRoot": "./dist"
+}
